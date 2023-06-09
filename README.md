@@ -19,7 +19,7 @@ This is a frontend project developed using HTML, CSS, and JavaScript. The projec
 3. Click on the keys or use the corresponding keyboard keys to trigger sound playback.
 
 ## Screenshots
-![Screenshot 1](/screenshots/Screenshot-2023-06-07-163838.png)
+![Alt text](C:\Users\HP\Pictures\Screenshots\Screenshot 2023-06-07 163838.png?raw=true "Optional Title")
 <!-- ![Screenshot 2](/screenshots/screenshot2.png) -->
 
 ## Contributing
