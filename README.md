@@ -1,4 +1,4 @@
-# Project Name
+# Drum Set
 
 ## Description
 This is a frontend project developed using HTML, CSS, and JavaScript. The project consists of 7 different keys, each of which plays a different sound when pressed either through the mouse or the keyboard.
